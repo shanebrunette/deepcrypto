@@ -1,8 +1,8 @@
 # deepcrytpo
-Exploration of deep reinforcement learning algorithms in predicting price data. Daily price data sourced from coinmarketcap.com. 
+Exploration of deep reinforcement learning algorithms for predicting price data.
 
 #### src/gym_crypto/
-OpenAI inspired gym environment for preprocessing data sourced from [coinmarketcap](https://coinmarketcap.com). 
+OpenAI inspired gym environment for preprocessing data sourced from [coinmarketcap](https://coinmarketcap.com).
 
 #### src/agent/
 Deulling deep double q learning network with options for lstm or feed forward configurations. Compatible with OpenAI gym and gym_crypto.
