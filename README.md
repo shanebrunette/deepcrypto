@@ -5,7 +5,7 @@ Exploration of deep reinforcement learning algorithms for predicting price data.
 OpenAI inspired gym environment for preprocessing data sourced from [coinmarketcap](https://coinmarketcap.com).
 
 ##### src/agent/
-Deulling deep double q learning network with options for lstm or feed forward configurations. Compatible with OpenAI gym and gym_crypto.
+Duelling deep double q learning network with options for lstm or feed forward configurations. Compatible with OpenAI gym and gym_crypto.
 
 [Duelling DDQN Tensorflow Graph](./src/agent/duelling_ddqn_graph.jpg?raw=true "Duelling DDQN Tensor Graph")
 
